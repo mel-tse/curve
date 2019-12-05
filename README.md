@@ -1,1 +1,1 @@
-# Making the modern curv effect using pure SVG and CSS.
+# Making the modern curv effect using a SVG with basic CSS.
